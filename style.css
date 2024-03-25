@@ -1,0 +1,23 @@
+body, body * {
+    background-color: rgba(64, 91, 46, 0.532);
+    color:antiquewhite;
+    font-size: 50px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+text {
+    color: white;
+    font-style: oblique;
+    font-size: 50px;
+}
+
+h1 {
+    color: red;
+    font-size: 100px;
+    font-style: oblique;
+}
+
+h2 {
+    color:rgba(57, 5, 190, 0.532);
+    text-align: right;
+}
